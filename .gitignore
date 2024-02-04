@@ -1,0 +1,5 @@
+*.d
+*.o
+decorrelation_time
+energy_matrix_el
+term
