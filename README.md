@@ -23,14 +23,14 @@ The project provides a detailed analysis of the simulation results, including:
 
 - <b>devel</b>:            directories used for developing and testing the various 
                  modules. Test programs should be made available here that 
-                 can be rerun if so desired
+                 can be rerun if so desired.
 
 - <b>doc</b>:              collection of notes and other documentation related to the
-                 programs in this repository 
+                 programs in this repository.
 
 - <b>include</b>:          all include files. Typically there is one include file
-                 per directory in the modules directory
+                 per directory in the modules directory.
 
-- <b>main</b>:             collection of main programs
+- <b>main</b>:             collection of main programs.
 
-- <b>modules</b>:          source code of all modules 
+- <b>modules</b>:          source code of all modules.
