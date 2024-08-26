@@ -21,16 +21,16 @@ The project provides a detailed analysis of the simulation results, including:
 
 ### Folders
 
-- devel            Directories used for developing and testing the various 
+- <b>devel</b>:            directories used for developing and testing the various 
                  modules. Test programs should be made available here that 
                  can be rerun if so desired
 
-- doc              Collection of notes and other documentation related to the
+- <b>doc</b>:              collection of notes and other documentation related to the
                  programs in this repository 
 
-- include          All include files. Typically there is one include file
+- <b>include</b>:          all include files. Typically there is one include file
                  per directory in the modules directory
 
-- main             Collection of main programs
+- <b>main</b>:             collection of main programs
 
-- modules          Source code of all modules 
+- <b>modules</b>:          source code of all modules 
