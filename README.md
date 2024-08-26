@@ -2,7 +2,7 @@
 ### Project Overview
 
 This project presents a non-perturbative approach to studying a quantum system using numerical Monte Carlo techniques for evaluating the path integral. The focus is on a one-dimensional harmonic oscillator, a system that can be exactly solved analytically, allowing for comparison with our numerical results. The methods used here, however, are general and can be applied to more complex potentials or even quantum field theories with appropriate modifications.
-Features
+### Features
 
    - Path Integral Formulation: The quantum system is studied using the path integral formulation, where time is discretized on a lattice, and the integral is computed over finite dimensions using Monte Carlo methods.
    - Monte Carlo Method: The project implements Monte Carlo techniques, specifically the Metropolis algorithm, to evaluate the path integral.
